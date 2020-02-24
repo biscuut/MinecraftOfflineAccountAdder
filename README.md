@@ -1,7 +1,7 @@
 <h1 align="center">MinecraftOfflineAccountAdder</h1>
 
 <p align="center">
-  <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/releases">
+  <a href="https://github.com/biscuut/MinecraftOfflineAccountAdder/releases">
     <img alt="downloads" src="https://img.shields.io/github/v/release/biscuut/MinecraftOfflineAccountAdder?color=ff5555" target="_blank" />
   </a>
 </p>
