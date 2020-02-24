@@ -4,6 +4,9 @@
   <a href="https://github.com/biscuut/MinecraftOfflineAccountAdder/releases">
     <img alt="downloads" src="https://img.shields.io/github/v/release/biscuut/MinecraftOfflineAccountAdder?color=ff5555" target="_blank" />
   </a>
+    <a href="https://github.com/biscuut/MinecraftOfflineAccountAdder/releases">
+      <img alt="downloads" src="https://img.shields.io/github/downloads/biscuut/MinecraftOfflineAccountAdder/total?color=ff5555" target="_blank" />
+    </a>
 </p>
 
 This simple program first opens up an ugly dialog asking which account you'd like to add.
